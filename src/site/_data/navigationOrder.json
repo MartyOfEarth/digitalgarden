@@ -1,0 +1,62 @@
+{
+  "/": [
+    "Main",
+    "Places",
+    "History",
+    "Beings",
+    "Races",
+    "Classes",
+    "Languages"
+  ],
+  "/Main": [
+    "Koda’s DnD"
+  ],
+  "/Places": [
+    "POI",
+    "Yelkwich"
+  ],
+  "/Places/POI": [
+    "Ironvein Mountains",
+    "Serpentine River"
+  ],
+  "/Places/Yelkwich": [
+    "Inner Yelkwich",
+    "Outer Yelkwich",
+    "The Vael",
+    "Yelkwich"
+  ],
+  "/History": [
+    "Dragonborne",
+    "Great Racial Wars"
+  ],
+  "/Beings": [
+    "NPCs",
+    "PCs"
+  ],
+  "/Beings/NPCs": [
+    "Kelna Mildpot"
+  ],
+  "/Beings/PCs": [
+    "Kóokay",
+    "Professor Nerb",
+    "Ravrokk",
+    "Valentin d’Étoile"
+  ],
+  "/Races": [
+    "Half-Elf",
+    "Halfling",
+    "Human",
+    "Orc",
+    "Starry Child"
+  ],
+  "/Classes": [
+    "Barbarian",
+    "Bard",
+    "Druid",
+    "Ranger"
+  ],
+  "/Languages": [
+    "Common",
+    "Language"
+  ]
+}
