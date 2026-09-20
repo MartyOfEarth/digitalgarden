@@ -4,7 +4,7 @@
 
 **Script:** Unique
 
-**Summary:** Primordial is the oldest [[DnD/Languages/Languages\|language]], so old that it cannot be separated out from the reality that it engulfs. The [[DnD/Languages/Languages\|languages]] of the elementals ([[DnD/Languages/Aquan\|Aquan]], [[DnD/Languages/Auran\|Auran]], [[DnD/Languages/Ignan\|Ignan]], and [[DnD/Languages/Terran\|Terran]]) are all dialects of Primordial, and anyone who speaks Primordial can understand all of them. 
+**Summary:** Primordial is the oldest [[DnD/Languages/index\|language]], so old that it cannot be separated out from the reality that it engulfs. The [[DnD/Languages/index\|languages]] of the elementals ([[DnD/Languages/Aquan\|Aquan]], [[DnD/Languages/Auran\|Auran]], [[DnD/Languages/Ignan\|Ignan]], and [[DnD/Languages/Terran\|Terran]]) are all dialects of Primordial, and anyone who speaks Primordial can understand all of them. 
 
 **Sounds:** Primordial is the sound of a wave hitting the shore, of wind blowing through a valley, of mountains raising and falling, and of the sun burning its way through the sky. 
 

@@ -4,8 +4,8 @@
 
 **Script:** Brush
 
-**Summary:** The Sylvan [[DnD/Languages/Languages\|language]] is a beautiful one, though entirely unpronounceable for anyone with regular vocal cords. The entire [[DnD/Languages/Languages\|language]] is like music played on a string instrument.
+**Summary:** The Sylvan [[DnD/Languages/index\|language]] is a beautiful one, though entirely unpronounceable for anyone with regular vocal cords. The entire [[DnD/Languages/index\|language]] is like music played on a string instrument.
 
-**Sounds:** True Sylvan sounds like the music of a harp, or similar string instrument, being played by a master. However, as humanoids can't produce these sounds naturally, the fey have developed a version of their [[DnD/Languages/Languages\|language]] that can be performed via whistling, instead. The result is a [[DnD/Languages/Languages\|language]] that sounds halfway between [[DnD/Languages/Auran\|Auran]] and [[DnD/Languages/Aarakocra (Language)\|Aarakocran]].
+**Sounds:** True Sylvan sounds like the music of a harp, or similar string instrument, being played by a master. However, as humanoids can't produce these sounds naturally, the fey have developed a version of their [[DnD/Languages/index\|language]] that can be performed via whistling, instead. The result is a [[DnD/Languages/index\|language]] that sounds halfway between [[DnD/Languages/Auran\|Auran]] and [[DnD/Languages/Aarakocra (Language)\|Aarakocran]].
 
-**Appearance:** The [[DnD/Languages/Languages\|language]] of they fey is largely hieroglyphic in nature, with characters that resemble images of flowers, trees, snowflakes, and other symbols of nature.
+**Appearance:** The [[DnD/Languages/index\|language]] of they fey is largely hieroglyphic in nature, with characters that resemble images of flowers, trees, snowflakes, and other symbols of nature.
