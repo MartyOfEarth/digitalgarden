@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/main/languages/thieves-cant/","dg-note-properties":{}}
----
-
-**Summary:** Thieves cant is not a [[Main/Languages/Languages\|language]] in-and-of-itself, but can be spoken in any [[Main/Languages/Languages\|language]]. It is a way of communicating hidden messages in seemingly innocent words, gestures, actions, etc.. The more familiar the speakers are with one another, the more intricate and elaborate the [[Main/Languages/Languages\|language]] becomes between them. Everything about the [[Main/Languages/Languages\|language]] is situational, making it extremely difficult to decode.
-
-For example, two people speaking in thieves cant may be having a casual conversation about the weather that is actually code for a planned heist - The temperature would indicate the planned time, the expected rainfall would mean the amount of resistance expected, any mention of foggy weather would indicate the presence of magic, and so on.
