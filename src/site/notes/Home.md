@@ -45,7 +45,7 @@
 
 ---
 
-### Quick Access
+### Quick Access+
 
 * **Party Dossiers:** [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]] · [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] · [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]] · [[Campaigns/Not So Glorious/Characters/Party/Professor Nerb\|Professor Nerb]]
 * **Notable Settlements:** [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]]
