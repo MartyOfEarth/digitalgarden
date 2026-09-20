@@ -20,7 +20,7 @@ A playful miniature dragon with feline temperament, leathery wings, and a stingi
 - **Traits:**
   - **Keen Senses:** Advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
   - **Magic Resistance:** Advantage on saving throws against spells and magical effects.
-  - **Limited Telepathy:** Communicate simple ideas and emotions with any creature within 100 ft. that knows a [[DnD/Languages/index\|language]].
+  - **Limited Telepathy:** Communicate simple ideas and emotions with any creature within 100 ft. that knows a [[DnD/Languages/.md\|language]].
 - **Actions:**
   - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
   - **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution save or become Poisoned for 1 hour. If failed by 5 or more, the target falls unconscious.
