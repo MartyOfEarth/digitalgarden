@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/yelkwich/yelkwich/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/places/yelkwich/yelkwich/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ## About
