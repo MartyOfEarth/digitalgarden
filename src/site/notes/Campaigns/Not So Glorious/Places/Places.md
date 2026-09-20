@@ -6,7 +6,7 @@
 # Campaign Atlas: Places
 
 > [!summary] Geography & Exploration Overview
-> **1** Settlement · **** Regions · **2** Landscapes · **** Landmarks
+> **2** Settlement · **** Regions · **2** Landscapes · **** Landmarks
 
  The master geographic index for known territories, natural boundaries, points of interest, and civilized bastions.
 
@@ -18,7 +18,7 @@
 Cities, towns, keeps, and outposts where civilizations dwell and factions vie for control.
 - **Directory Hub:** [[Campaigns/Not So Glorious/Places/Settlements/Settlements\|Settlements]]
 - **Sub-Divisions:** Cities, Districts, Towns, Villages, Fortresses
-- **Total Locations:** 4 recorded
+- **Total Locations:** 5 recorded
 
 ### Regions & Provinces
 Broad territorial expanses, provinces, cultural zones, and border domains.
@@ -40,13 +40,14 @@ Monoliths, ancient ruins, shrines, forgotten towers, and unique tactical sites.
 
 ### Master Location Registry
 
-| File                                                                                        | Type       | Region |
-| ------------------------------------------------------------------------------------------- | ---------- | ------ |
-| [[Campaigns/Not So Glorious/Places/Landscapes/Ironvein Mountains\|Ironvein Mountains]]   | Landscape  | NA     |
-| [[Campaigns/Not So Glorious/Places/Landscapes/Serpentine River\|Serpentine River]]       | Landscape  | NA     |
-| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich\|Inner Yelkwich]] | District   | NA     |
-| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich\|Outer Yelkwich]] | District   | NA     |
-| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/The Vael\|The Vael]]             | District   | NA     |
-| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]]             | Settlement | NA     |
+| File                                                                                                       | Type       | Region |
+| ---------------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| [[Campaigns/Not So Glorious/Places/Landscapes/Ironvein Mountains\|Ironvein Mountains]]                  | Landscape  | NA     |
+| [[Campaigns/Not So Glorious/Places/Landscapes/Serpentine River\|Serpentine River]]                      | Landscape  | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich\|Outer Yelkwich]]                | District   | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/The Vael\|The Vael]]                            | District   | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]]                            | Settlement | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/Inner Yelkwich\|Inner Yelkwich]] | District   | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]]   | \-         | \-     |
 
 { .block-language-dataview}

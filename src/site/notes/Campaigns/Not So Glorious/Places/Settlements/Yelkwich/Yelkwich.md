@@ -13,4 +13,4 @@ Today, Yelkwich is the beating heart of global trade. Adventurers from across th
 
 The city itself is dramatically split into two distinct worlds:
 - [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich\|The Outer District]] 
-- [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich\|The Inner City]] 
+- [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/Inner Yelkwich\|The Inner City]] 
