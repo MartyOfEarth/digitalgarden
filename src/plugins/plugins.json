@@ -5,7 +5,7 @@
       "enabled": true
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
