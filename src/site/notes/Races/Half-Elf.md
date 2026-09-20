@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/races/half-elf/","dg-note-properties":{}}
----
-
-Walking in two worlds but truly belonging to neither, [[Races/Half-Elf\|half-elves]] combine what some say are the best qualities of their [[Elf\|elf]] and [[Races/Human\|human]] parents: [[Races/Human\|human]] curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some [[Races/Half-Elf\|half-elves]] live among [[Races/Human\|humans]], set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the [[Elf\|elves]], growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many [[Races/Half-Elf\|half-elves]], unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
