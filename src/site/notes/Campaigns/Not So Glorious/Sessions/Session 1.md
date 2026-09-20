@@ -2,3 +2,4 @@
 {"dg-publish":true,"permalink":"/campaigns/not-so-glorious/sessions/session-1/","dg-note-properties":{}}
 ---
 
+[[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]] hired by a sketchy man comes to the [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]] with a goal to kill [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]]. Something seems off to him, and when he comes to the tavern he finds [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] fighting a bunch of Orcs led by [[Campaigns/Not So Glorious/Characters/NPCs/Melyre\|Melyre]] and he decides to join the fight. Meanwhile, [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]] is performing on the stage and decides to join in order to protect [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] from thes sketchy men.
