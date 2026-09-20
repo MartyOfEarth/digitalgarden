@@ -5,7 +5,7 @@
 # D&D 5e Compendium
 
 > [!summary] Compendium Overview
-> **89** Monsters · **13** Classes · **40** Races · **23** Languages
+> **89** Monsters · **14** Classes · **40** Races · **23** Languages
 
 This is the main D&D compendium. Use the quick-navigation cards below to jump to specific rulebooks, directories, and tables.
 
@@ -22,7 +22,7 @@ Complete collection of monsters, beasts, summons, mounts, and campaign bosses.
 ### Classes & Archetypes
 Character classes, subclasses, hit dice, primary abilities, and class features.
 - **Browse Directory:** [[DnD/Classes/Classes\|Classes]]
-- **Tracked:** 13 classes
+- **Tracked:** 14 classes
 
 ### Races & Ancestries
 Character ancestries, racial traits, ability score increases, and cultural lore.
@@ -39,21 +39,22 @@ Standard, exotic, and secret dialects spoken across the planes and mortal realms
 ## Quick Reference Tables
 
 #### Character Classes
-| File                                    | Hit Die | Primary Ability       | Saves                      |
-| --------------------------------------- | ------- | --------------------- | -------------------------- |
-| [[DnD/Classes/Artificer\|Artificer]] | d8      | Intelligence          | Constitution, Intelligence |
-| [[DnD/Classes/Barbarian\|Barbarian]] | d12     | Strength              | Strength, Constitution     |
-| [[DnD/Classes/Bard\|Bard]]           | d8      | Charisma              | Dexterity, Charisma        |
-| [[DnD/Classes/Cleric\|Cleric]]       | d8      | Wisdom                | Wisdom, Charisma           |
-| [[DnD/Classes/Druid\|Druid]]         | d8      | Wisdom                | Intelligence, Wisdom       |
-| [[DnD/Classes/Fighter\|Fighter]]     | d10     | Strength or Dexterity | Strength, Constitution     |
-| [[DnD/Classes/Monk\|Monk]]           | d8      | Dexterity, Wisdom     | Strength, Dexterity        |
-| [[DnD/Classes/Paladin\|Paladin]]     | d10     | Strength, Charisma    | Wisdom, Charisma           |
-| [[DnD/Classes/Ranger\|Ranger]]       | d10     | Dexterity, Wisdom     | Strength, Dexterity        |
-| [[DnD/Classes/Rogue\|Rogue]]         | d8      | Dexterity             | Dexterity, Intelligence    |
-| [[DnD/Classes/Sorcerer\|Sorcerer]]   | d6      | Charisma              | Constitution, Charisma     |
-| [[DnD/Classes/Warlock\|Warlock]]     | d8      | Charisma              | Wisdom, Charisma           |
-| [[DnD/Classes/Wizard\|Wizard]]       | d6      | Intelligence          | Intelligence, Wisdom       |
+| File                                          | Hit Die | Primary Ability       | Saves                      |
+| --------------------------------------------- | ------- | --------------------- | -------------------------- |
+| [[DnD/Classes/Artificer\|Artificer]]       | d8      | Intelligence          | Constitution, Intelligence |
+| [[DnD/Classes/Barbarian\|Barbarian]]       | d12     | Strength              | Strength, Constitution     |
+| [[DnD/Classes/Bard\|Bard]]                 | d8      | Charisma              | Dexterity, Charisma        |
+| [[DnD/Classes/Cleric\|Cleric]]             | d8      | Wisdom                | Wisdom, Charisma           |
+| [[DnD/Classes/Druid\|Druid]]               | d8      | Wisdom                | Intelligence, Wisdom       |
+| [[DnD/Classes/Fighter\|Fighter]]           | d10     | Strength or Dexterity | Strength, Constitution     |
+| [[DnD/Classes/Guild Master\|Guild Master]] | d8      | Charisma              | Intelligence, Charisma     |
+| [[DnD/Classes/Monk\|Monk]]                 | d8      | Dexterity, Wisdom     | Strength, Dexterity        |
+| [[DnD/Classes/Paladin\|Paladin]]           | d10     | Strength, Charisma    | Wisdom, Charisma           |
+| [[DnD/Classes/Ranger\|Ranger]]             | d10     | Dexterity, Wisdom     | Strength, Dexterity        |
+| [[DnD/Classes/Rogue\|Rogue]]               | d8      | Dexterity             | Dexterity, Intelligence    |
+| [[DnD/Classes/Sorcerer\|Sorcerer]]         | d6      | Charisma              | Constitution, Charisma     |
+| [[DnD/Classes/Warlock\|Warlock]]           | d8      | Charisma              | Wisdom, Charisma           |
+| [[DnD/Classes/Wizard\|Wizard]]             | d6      | Intelligence          | Intelligence, Wisdom       |
 
 { .block-language-dataview}
 

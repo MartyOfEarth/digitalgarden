@@ -13,8 +13,7 @@
 | -------------------------------------------------------------------------------------- | ------- | ------------------------------------------- | --------------------------------------- | ----- |
 | [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]]                       | Ceekay  | [[DnD/Races/Half-Elf\|Half-Elf]]         | [[DnD/Classes/Druid\|Druid]]         | 1     |
 | [[Campaigns/Not So Glorious/Characters/Party/Professor Nerb\|Professor Nerb]]       | Brenden | Unknown                                     | [[DnD/Classes/Ranger\|Ranger]]       | 1     |
-| [[Campaigns/Not So Glorious/Characters/Party/Ravrokk 2\|Ravrokk 2]]                 | Ravr    | [[DnD/Bestiary/Orc\|Orc]]                | [[DnD/Classes/Barbarian\|Barbarian]] | 1     |
-| [[Campaigns/Not So Glorious/Characters/Party/Ravrokk(1)\|Ravrokk(1)]]               | Ravr    | [[DnD/Bestiary/Orc\|Orc]]                | [[DnD/Classes/Barbarian\|Barbarian]] | 1     |
+| [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]]                     | Ravr    | [[DnD/Bestiary/Orc\|Orc]]                | [[DnD/Classes/Barbarian\|Barbarian]] | 1     |
 | [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]] | Marty   | [[DnD/Races/Starry Child\|Starry Child]] | [[DnD/Classes/Bard\|Bard]]           | 1     |
 
 { .block-language-dataview}
@@ -52,7 +51,7 @@
 > 
 > The brute force and anchor of the party, relying on pure resilience and savage combat prowess to break hostile lines.
 > 
-> *Full dossier:* [[Ravrokk\|Ravrokk]]
+> *Full dossier:* [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]]
 
 > [!infobox] Professor Nerb
 > - **Player:** Brenden
