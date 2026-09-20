@@ -13,7 +13,7 @@
 ### Grand Archives
 
 > [!summary] Vault at a Glance
-> **29** Campaign Records · **169** System Entries cataloged across the entire vault.
+> **33** Campaign Records · **169** System Entries cataloged across the entire vault.
 
 ---
 
@@ -23,7 +23,7 @@
 > The primary ongoing campaign tracking an unlikely company navigating contracts, ancient ruins, and shifting political borders.
 > 
 > * **Cast & Companions:** [[Campaigns/Not So Glorious/Characters/Characters\|Characters]]
->   * 4 [[Campaigns/Not So Glorious/Characters/Party/Party\|Adventurers]] · 3 [[Campaigns/Not So Glorious/Characters/NPCs/NPCs\|NPCs]] · 1 [[Campaigns/Not So Glorious/Characters/Other/Other\|Beasts & Companions]]
+>   * 4 [[Campaigns/Not So Glorious/Characters/Party/Party\|Adventurers]] · 4 [[Campaigns/Not So Glorious/Characters/NPCs/NPCs\|NPCs]] · 1 [[Campaigns/Not So Glorious/Characters/Other/Other\|Beasts & Companions]]
 > * **Geography & Sites:** [[Campaigns/Not So Glorious/Places/Places\|Places]]
 >   * [[Campaigns/Not So Glorious/Places/Settlements/Settlements\|Settlements]] · [[Campaigns/Not So Glorious/Places/Landscapes/Landscapes\|Landscapes]] · [[Campaigns/Not So Glorious/Places/Landmarks/Landmarks\|Landmarks]] · [[Campaigns/Not So Glorious/Places/Regions/Regions\|Regions]]
 > * **Annals of Time:** [[Campaigns/Not So Glorious/History/History\|History]]

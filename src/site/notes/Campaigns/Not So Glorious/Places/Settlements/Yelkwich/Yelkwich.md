@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/yelkwich/","dg-note-properties":{"Type":"Settlement","Region":"NA"}}
+{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/yelkwich/","dg-note-properties":{"Type":"Settlement","Region":"Greater Yelkwich"}}
 ---
 
 ## About
@@ -12,5 +12,5 @@ Founded over five hundred years ago in the bloody crucible of the [[Campaigns/No
 Today, Yelkwich is the beating heart of global trade. Adventurers from across the realm flock to its legendary guildhalls seeking fame, fortune, and high-paying contracts. Where heroes gather, gold follows—drawing ambitious merchants who line the streets with rare goods, exotic beasts, and enchanted wares.
 
 The city itself is dramatically split into two distinct worlds:
-- [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich\|The Outer District]] 
+- [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich/Outer Yelkwich\|The Outer District]] 
 - [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/Inner Yelkwich\|The Inner City]] 
