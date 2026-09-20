@@ -3,7 +3,11 @@
 ---
 
 # Sorcerer
-- **Primary Ability:** Charisma | **Hit Die:** d6 | **Saves:** Constitution, Charisma
+> [!infobox] Statblock
+> - hit_die :: d6
+> - primary_ability:: Charisma
+> - Saves:: Constitution, Charisma
+
 - **Armor & Weapon Proficiencies:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Overview:** A spellcaster whose magic is not studied or granted, but an innate, roiling power stamped into their very bloodline, soul, or cosmic origin.
 - **Key Features:**

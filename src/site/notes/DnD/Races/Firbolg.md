@@ -3,7 +3,11 @@
 ---
 
 ## Firbolg
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Gentle, forest-dwelling giant-kin who act as reclusive guardians of natural groves and woodland creatures.
 - **Characteristics & Traits:**
   - **Firbolg Magic:** Can cast *Detect Magic* and *Disguise Self* (can alter height up to 3 ft. taller or shorter).

@@ -3,7 +3,11 @@
 ---
 
 ## Goblin
-- **Type:** Humanoid (Goblinoid) | **Size:** Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Goblinoid)
+> - Size:: Small
+> - Speed:: 30 ft.
+
 - **Overview:** Tenacious, cunning survivors accustomed to being underdogs, turning agility and fury into lethal weapons.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

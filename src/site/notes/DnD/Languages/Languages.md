@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dn-d/languages/languages/","dg-note-properties":{"aliases":["Language list","Language"]}}
 ---
 
-Different [[DnD/Languages/index\|languages]] are written in different scripts, dependant primarily on the tools used to write them;
+Different languages are written in different scripts, dependant primarily on the tools used to write them;
 
 - **Brush Script** - Written using paintbrushes
 - **Chisel Script** - Written using chisels, stamps, and other tools, typically into stone
@@ -25,7 +25,7 @@ ___
 [[DnD/Languages/Elvish\|Elvish]]
 [[DnD/Languages/Giant Jotun\|Giant Jotun]]
 [[DnD/Languages/Gith\|Gith]]
-[[DnD/Languages/Gnoll\|DnD/Languages/Gnoll]]
+[[DnD/Languages/Gnoll\|Gnoll]]
 [[DnD/Languages/Gnomish\|Gnomish]]
 [[DnD/Languages/Goblin (Language)\|Goblin (Language)]]
 [[DnD/Languages/Halfling (Language)\|Halfling (Language)]]

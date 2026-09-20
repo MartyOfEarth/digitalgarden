@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/dn-d/languages/deep-speech/","dg-note-properties":{}}
 ---
 
-**Script:** Brush
+# Deep Speech
+> [!infobox] Statblock
+> - Type:: Exotic
+> - Script:: Brush
 
-**Summary:** Deep Speech not a singular [[DnD/Languages/.md\|language]], but an umbrella term referring to the methods of communication aberrations use. Beholders, Mindflayers, Nothics, Slaadi, and Aboleths do not necessarily speak the same [[DnD/Languages/.md\|languages]], but a person studying Deep Speech would need to understand all of them - and most likely go mad in the process. 
+**Summary:** Deep Speech not a singular [[DnD/Languages/Languages\|Languages]], but an umbrella term referring to the methods of communication aberrations use. Beholders, Mindflayers, Nothics, Slaadi, and Aboleths do not necessarily speak the same [[DnD/Languages/Languages\|Languages]], but a person studying Deep Speech would need to understand all of them - and most likely go mad in the process. 
 
 **Sounds:** The sound of Deep Speech varies from creature to creature, but can usually be identified by the presence of noises that most vocal cords couldn't realistically produce; Vibrations, creaking wood,  the dripping of water, etc..
 

@@ -3,7 +3,11 @@
 ---
 
 ## Eladrin
-- **Type:** Humanoid ([[DnD/Races/Elf\|Elf]]) | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid ([[DnD/Races/Elf\|Elf]])
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** [[DnD/Races/Elf\|Elves]] native to the Feywild who embody the four seasons, shifting emotional and physical aspects alongside seasonal magic.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft. | **Keen Senses:** Proficiency in Perception.

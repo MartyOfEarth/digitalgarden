@@ -3,7 +3,11 @@
 ---
 
 # Wizard
-- **Primary Ability:** Intelligence | **Hit Die:** d6 | **Saves:** Intelligence, Wisdom
+> [!infobox] Statblock
+> - hit_die:: d6
+> - primary_ability:: Intelligence
+> - Saves:: Intelligence, Wisdom
+
 - **Armor & Weapon Proficiencies:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Overview:** The supreme scholarly practitioner of the arcane arts, learning spells through meticulous study, deciphering scrolls, and maintaining an ever-expanding spellbook.
 - **Key Features:**

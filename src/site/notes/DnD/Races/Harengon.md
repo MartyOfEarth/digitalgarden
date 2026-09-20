@@ -3,7 +3,11 @@
 ---
 
 ## Harengon
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Anthropomorphic rabbit-folk native to the Feywild, embodying boundless energy, quick reflexes, and escape arts.
 - **Characteristics & Traits:**
   - **Hare-Trigger:** Adds proficiency bonus to Initiative rolls.

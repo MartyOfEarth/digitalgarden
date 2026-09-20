@@ -3,11 +3,15 @@
 ---
 
 # Ranger
-- **Primary Ability:** Dexterity, Wisdom | **Hit Die:** d10 | **Saves:** Strength, Dexterity
+> [!infobox] Statblock
+> - hit_die :: d10
+> - primary_ability:: Dexterity, Wisdom
+> - Saves:: Strength, Dexterity
+
 - **Armor & Weapon Proficiencies:** Light armor, medium armor, shields, simple weapons, martial weapons
 - **Overview:** A peerless scout and wilderness hunter who blends tactical martial archery and dual-wielding with primal nature magic to track and eliminate quarry.
 - **Key Features:**
-  - **Deft Explorer:** Gain Expertise in one skill, plus extra [[DnD/Languages/.md\|languages]], swimming, and climbing speeds.
+  - **Deft Explorer:** Gain Expertise in one skill, plus extra [[DnD/Languages/Languages\|Languages]], swimming, and climbing speeds.
   - **Favored Enemy:** Always have *Hunter's Mark* prepared, casting it free multiple times per day.
   - **Weapon Mastery:** Exploit specialized mastery weapon traits on bows, blades, and polearms.
   - **Spellcasting:** Wisdom-based prepared half-caster specializing in tracking, stealth, and archery enhancements.

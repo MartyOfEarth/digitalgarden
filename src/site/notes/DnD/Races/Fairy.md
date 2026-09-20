@@ -3,7 +3,11 @@
 ---
 
 ## Fairy
-- **Type:** Fey | **Size:** Small | **Speed:** 30 ft., Fly 30 ft.
+> [!infobox] Statblock
+> - Type:: Fey
+> - Size:: Small
+> - Speed:: 30 ft., Fly 30 ft.
+
 - **Overview:** Diminutive winged folk of the Feywild possessing an innate capricious nature and whimsical magic.
 - **Characteristics & Traits:**
   - **Flight:** Flying speed equal to walking speed (restricted by medium or heavy armor).

@@ -3,7 +3,11 @@
 ---
 
 # Paladin
-- **Primary Ability:** Strength, Charisma | **Hit Die:** d10 | **Saves:** Wisdom, Charisma
+> [!infobox] Statblock
+> - hit_die :: d10
+> - primary_ability:: Strength, Charisma
+> - Saves:: Wisdom, Charisma
+
 - **Armor & Weapon Proficiencies:** All armor, shields, simple weapons, martial weapons
 - **Overview:** A holy warrior bound by a sacred oath, standing as an unyielding wall against darkness, clad in heavy plate and fueled by radiant smites.
 - **Key Features:**

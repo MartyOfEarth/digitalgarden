@@ -3,7 +3,11 @@
 ---
 
 # Cleric
-- **Primary Ability:** Wisdom | **Hit Die:** d8 | **Saves:** Wisdom, Charisma
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Wisdom
+> - Saves:: Wisdom, Charisma
+
 - **Armor & Weapon Proficiencies:** Light armor, medium armor, shields, simple weapons
 - **Overview:** A holy conduit of divine power sworn to a deity or sacred pantheon, wielding devastating smites, shields of faith, and restorative miracles.
 - **Key Features:**

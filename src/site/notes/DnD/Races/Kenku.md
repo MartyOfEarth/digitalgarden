@@ -3,7 +3,11 @@
 ---
 
 ## Kenku
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Flightless avian humanoids cursed with mimicry, celebrated for precise craftsmanship and sound replication.
 - **Characteristics & Traits:**
   - **Expert Duplication:** Advantage on checks to produce exact forgeries or duplicates of handwriting, craft, and objects.

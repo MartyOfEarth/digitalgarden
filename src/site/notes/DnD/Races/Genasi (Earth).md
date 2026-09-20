@@ -3,7 +3,11 @@
 ---
 
 ## Genasi (Earth)
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Mortals with bloodlines tracing back to dao and the Elemental Plane of Earth, featuring rocky skin or gemstone eyes.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

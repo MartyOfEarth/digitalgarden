@@ -3,7 +3,11 @@
 ---
 
 ## Bugbear
-- **Type:** Humanoid (Goblinoid) | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Goblinoid)
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Large, furry goblinoids with deceptively quiet movement and disproportionately long limbs, born with predatory instincts.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

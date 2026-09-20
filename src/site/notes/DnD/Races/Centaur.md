@@ -3,7 +3,11 @@
 ---
 
 ## Centaur
-- **Type:** Fey | **Size:** Medium | **Speed:** 40 ft.
+> [!infobox] Statblock
+> - Type:: Fey
+> - Size:: Medium
+> - Speed:: 40 ft.
+
 - **Overview:** Nomadic wilderness dwellers combining the upper body of an [[DnD/Races/Elf\|elf]] or [[DnD/Races/Human\|human]] with the lower torso of a horse.
 - **Characteristics & Traits:**
   - **Charge:** If moving 30 ft. straight toward a target before hitting with a melee weapon, can make a bonus action Hooves attack.

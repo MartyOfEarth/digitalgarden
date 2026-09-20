@@ -9,12 +9,14 @@
 
 ### Campaign Roster
 
-| Character | Player | Ancestry / Race | Class | Role / Flavor |
-| :--- | :--- | :--- | :--- | :--- |
-| **[[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]]** | Marty | Starry Child | [[DnD/Classes/Bard\|Bard]] | Astronomer & diplomat |
-| **[[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]]** | Ceekay | [[DnD/Races/Half-Elf\|Half-Elf]] | [[DnD/Classes/Druid\|Druid]] | *Firefly of the Wetlands* |
-| **[[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]]** | Ravr | [[DnD/Races/Orc\|DnD/Races/Orc]] | [[DnD/Classes/Barbarian\|Barbarian]] | Frontline powerhouse |
-| **[[Campaigns/Not So Glorious/Characters/Party/Professor Nerb\|Professor Nerb]]** | Brenden | *Unknown* | [[DnD/Classes/Ranger\|Ranger]] | Field scholar & scout |
+| File                                                                                   | Player  | Race                                        | Class                                   | Level |
+| -------------------------------------------------------------------------------------- | ------- | ------------------------------------------- | --------------------------------------- | ----- |
+| [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]]                       | Ceekay  | [[DnD/Races/Half-Elf\|Half-Elf]]         | [[DnD/Classes/Druid\|Druid]]         | 1     |
+| [[Campaigns/Not So Glorious/Characters/Party/Professor Nerb\|Professor Nerb]]       | Brenden | Unknown                                     | [[DnD/Classes/Ranger\|Ranger]]       | 1     |
+| [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]]                     | Ravr    | [[DnD/Bestiary/Orc\|Orc]]                | [[DnD/Classes/Barbarian\|Barbarian]] | 1     |
+| [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]] | Marty   | [[DnD/Races/Starry Child\|Starry Child]] | [[DnD/Classes/Bard\|Bard]]           | 1     |
+
+{ .block-language-dataview}
 
 ---
 
@@ -22,7 +24,7 @@
 
 > [!infobox] Valentin d’Étoile
 > - **Player:** Marty
-> - **Race:** Starry Child
+> - **Race:** [[DnD/Races/Starry Child\|Starry Child]]
 > - **Class:** [[DnD/Classes/Bard\|Bard]]
 > - **Key Traits:** Astronomer, speaks sign language, animal speaker, vegetarian wine connoisseur
 > 
@@ -60,12 +62,3 @@
 > An enigmatic academic surviving harsh terrain through disciplined tracking, keen marksmanship, and field research.
 > 
 > *Full dossier:* [[Campaigns/Not So Glorious/Characters/Party/Professor Nerb\|Professor Nerb]]
-
----
-
-### Dynamic Roster Index
-
-| File | Player | Race | Class | Level |
-| ---- | ------ | ---- | ----- | ----- |
-
-{ .block-language-dataview}

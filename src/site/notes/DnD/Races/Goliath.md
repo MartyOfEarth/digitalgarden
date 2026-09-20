@@ -3,7 +3,11 @@
 ---
 
 ## Goliath
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 35 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 35 ft.
+
 - **Overview:** Towering humanoids bearing giant blood and natural markings, possessing raw physical durability and mountain grit.
 - **Characteristics & Traits:**
   - **Giant Ancestry:** Traces lineage to a specific giant type (Cloud, Fire, Frost, Hill, Stone, Storm) granting special traits like teleportation or elemental damage.

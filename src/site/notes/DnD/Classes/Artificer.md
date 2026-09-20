@@ -3,7 +3,11 @@
 ---
 
 # Artificer
-- **Primary Ability:** Intelligence | **Hit Die:** d8 | **Saves:** Constitution, Intelligence
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Intelligence
+> - Saves:: Constitution, Intelligence
+
 - **Armor & Weapon Proficiencies:** Light armor, medium armor, shields, simple weapons, firearms
 - **Overview:** Masters of invention and applied magic who channel arcane power through everyday objects, alchemical concoctions, and mechanical wonders.
 - **Key Features:**

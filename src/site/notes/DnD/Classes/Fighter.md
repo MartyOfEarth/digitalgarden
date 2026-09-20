@@ -3,7 +3,11 @@
 ---
 
 # Fighter
-- **Primary Ability:** Strength or Dexterity | **Hit Die:** d10 | **Saves:** Strength, Constitution
+> [!infobox] Statblock
+> - hit_die :: d10
+> - primary_ability:: Strength or Dexterity
+> - Saves:: Strength, Constitution
+
 - **Armor & Weapon Proficiencies:** All armor, shields, simple weapons, martial weapons
 - **Overview:** A disciplined master of all forms of martial combat, equipment, and battlefield tactics, unequaled in sheer weapon technique and endurance.
 - **Key Features:**

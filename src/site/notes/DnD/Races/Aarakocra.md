@@ -3,7 +3,11 @@
 ---
 
 ## Aarakocra
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft., Fly 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft., Fly 30 ft.
+
 - **Overview:** Avian humanoids native to the Elemental Plane of Air. Resembling eagles or parrots, they value personal freedom and vast skies.
 - **Characteristics & Traits:**
   - **Flight:** Flying speed equal to walking speed (restricted by medium or heavy armor).

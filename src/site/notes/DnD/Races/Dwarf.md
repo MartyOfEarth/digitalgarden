@@ -3,7 +3,11 @@
 ---
 
 ## Dwarf
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Stout, enduring folk renowned for subterranean architecture, master smithing, and resilient constitutions.
 - **Characteristics & Traits:**
   - **Darkvision:** 120 ft.

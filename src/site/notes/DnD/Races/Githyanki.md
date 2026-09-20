@@ -3,7 +3,11 @@
 ---
 
 ## Githyanki
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Martial astral travelers who escaped mind flayer enslavement, wielding psionic power and iconic silver swords.
 - **Characteristics & Traits:**
   - **Astral Knowledge:** Can gain proficiency in one skill and one weapon/tool of choice after completing a long rest.

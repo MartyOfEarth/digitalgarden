@@ -3,7 +3,11 @@
 ---
 
 ## Gnome
-- **Type:** Humanoid | **Size:** Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Small
+> - Speed:: 30 ft.
+
 - **Overview:** Small, exuberant beings with boundless enthusiasm for magic, discovery, invention, and tinker-craft.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

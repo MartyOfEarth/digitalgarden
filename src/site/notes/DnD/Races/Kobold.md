@@ -3,7 +3,11 @@
 ---
 
 ## Kobold
-- **Type:** Humanoid (Reptilian) | **Size:** Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Reptilian)
+> - Size:: Small
+> - Speed:: 30 ft.
+
 - **Overview:** Small reptilian humanoids claiming dragon blood, known for clever teamwork, underground mining, and trap building.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

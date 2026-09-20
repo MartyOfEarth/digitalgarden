@@ -3,7 +3,11 @@
 ---
 
 ## Aasimar
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Mortals touched by [[DnD/Languages/Celestial\|celestial]] power from the Upper Planes, often bearing glowing eyes, metallic hair, or subtle halos.
 - **Characteristics & Traits:**
   - **[[DnD/Languages/Celestial\|Celestial]] Resistance:** Resistance to necrotic and radiant damage.

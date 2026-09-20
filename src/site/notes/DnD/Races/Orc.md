@@ -3,7 +3,11 @@
 ---
 
 ## Orc
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Resilient survivors with fierce loyalty to tribe and kin, capable of enduring immense physical strain.
 - **Characteristics & Traits:**
   - **Adrenaline Rush:** Can Dash as a bonus action, gaining temporary hit points equal to proficiency bonus (usable proficiency bonus times per long rest).

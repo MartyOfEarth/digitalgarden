@@ -16,24 +16,24 @@
 
 ### Settlements & Inhabited Sites
 Cities, towns, keeps, and outposts where civilizations dwell and factions vie for control.
-- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Settlements/index\|Campaigns/Not So Glorious/Places/Settlements/index]]
+- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Settlements/Settlements\|Settlements]]
 - **Sub-Divisions:** Cities, Districts, Towns, Villages, Fortresses
 - **Total Locations:** 4 recorded
 
 ### Regions & Provinces
 Broad territorial expanses, provinces, cultural zones, and border domains.
-- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Regions/index\|Campaigns/Not So Glorious/Places/Regions/index]]
+- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Regions/Regions\|Regions]]
 - **Total Regions:**  mapped
 
 ### Natural Landscapes
 Natural biomes, mountain chains, rivers, primeval forests, and geographic borders.
-- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Landscapes/index\|Campaigns/Not So Glorious/Places/Landscapes/index]]
+- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Landscapes/Landscapes\|Landscapes]]
  - **Key Examples:** [[Campaigns/Not So Glorious/Places/Landscapes/Ironvein Mountains\|Ironvein Mountains]], [[Campaigns/Not So Glorious/Places/Landscapes/Serpentine River\|Serpentine River]]
  - **Total Landscapes:** 2 cataloged
 
 ### Landmarks & POIs
 Monoliths, ancient ruins, shrines, forgotten towers, and unique tactical sites.
-- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Landmarks/index\|Campaigns/Not So Glorious/Places/Landmarks/index]]
+- **Directory Hub:** [[Campaigns/Not So Glorious/Places/Landmarks/Landmarks\|Landmarks]]
 - **Total Landmarks:**  discovered
 
 ---

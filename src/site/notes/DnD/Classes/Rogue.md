@@ -3,7 +3,11 @@
 ---
 
 # Rogue
-- **Primary Ability:** Dexterity | **Hit Die:** d8 | **Saves:** Dexterity, Intelligence
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Dexterity
+> - Saves:: Dexterity, Intelligence
+
 - **Armor & Weapon Proficiencies:** Light armor, simple weapons, martial weapons with the Finesse or Light property
 - **Overview:** A cunning scoundrel or precision assassin who prioritizes stealth, agility, and precision strikes over brute force to exploit enemy vulnerabilities.
 - **Key Features:**

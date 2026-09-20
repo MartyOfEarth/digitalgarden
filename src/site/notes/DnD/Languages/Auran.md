@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/dn-d/languages/auran/","dg-note-properties":{}}
 ---
 
-**Script:** Unique
+# Auran
+> [!infobox] Statblock
+> - Type:: Exotic
+> - Script:: Unique
 
-**Summary:** Auran is a unique [[DnD/Languages/.md\|language]], in that it doesn't require vocal cords to speak, only a set of lungs (or other air-moving apparatus). 
+**Summary:** Auran is a unique [[DnD/Languages/Languages\|Languages]], in that it doesn't require vocal cords to speak, only a set of lungs (or other air-moving apparatus). 
 
 **Sounds:** Auran is spoken via the inhaling or exhaling of air, and as such can sound like anything from a gentle sigh to a savage hurricane. All meaning is conveyed by the speed, intensity, and amount of air being inhaled or exhaled. An extended conversation in Auran could easily cause a normal humanoid to exhaust their lungs, faint, and potentially even asphyxiate themselves. It is very [[DnD/Languages/Common\|common]] for people learning Auran to think that they can hear secret messages in the blowing of the wind.  
 

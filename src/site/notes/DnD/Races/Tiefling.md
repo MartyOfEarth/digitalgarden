@@ -3,7 +3,11 @@
 ---
 
 ## Tiefling
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Mortals carrying fiendish bloodlines tracing to the Lower Planes, recognized by horns, tails, and dark magic.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

@@ -3,7 +3,11 @@
 ---
 
 ## Tortle
-- **Type:** Humanoid (Reptilian) | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Reptilian)
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Wandering turtle-folk who carry their shelters on their backs, exhibiting calm minds and simple lifestyles.
 - **Characteristics & Traits:**
   - **Claws:** Unarmed strike deals 1d6 + Strength modifier slashing damage.

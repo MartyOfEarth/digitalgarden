@@ -3,7 +3,11 @@
 ---
 
 ## Triton
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft., Swim 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft., Swim 30 ft.
+
 - **Overview:** Noble aquatic guardians from the Elemental Plane of Water who defend oceanic depths from leviathans.
 - **Characteristics & Traits:**
   - **Amphibious:** Can breathe air and water.

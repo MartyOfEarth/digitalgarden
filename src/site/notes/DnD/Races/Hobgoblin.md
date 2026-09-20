@@ -3,7 +3,11 @@
 ---
 
 ## Hobgoblin
-- **Type:** Humanoid (Goblinoid) | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Goblinoid)
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Disciplined and tactical goblinoids steeped in martial heritage, mutual defense, and Fey reciprocity.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

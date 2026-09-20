@@ -3,7 +3,11 @@
 ---
 
 ## Human
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** The most adaptable, ambitious, and widely populated species, found thriving across every terrain and trade.
 - **Characteristics & Traits:**
   - **Resourceful:** Gains Heroic Inspiration upon finishing a long rest.

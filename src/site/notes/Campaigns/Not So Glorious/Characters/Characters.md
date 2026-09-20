@@ -14,14 +14,14 @@ A directory of everyone and everything of interest in the campaign. Everything a
 
 ### Directories
 
-> [!abstract] [[Campaigns/Not So Glorious/Characters/Party/index\|Campaigns/Not So Glorious/Characters/Party/index]]
+> [!abstract] [[Campaigns/Not So Glorious/Characters/Party/Party\|Party]]
 > The primary adventuring company under the guidance of Koda.
 > - **Active Roster:** 4 characters
 
-> [!abstract] [[Campaigns/Not So Glorious/Characters/NPCs/index\|Campaigns/Not So Glorious/Characters/NPCs/index]]
+> [!abstract] [[Campaigns/Not So Glorious/Characters/NPCs/NPCs\|NPCs]]
 > Non-player characters, merchants, villains, and more.
 > - **Total Cataloged:** 1 individuals
 
-> [!abstract] [[Campaigns/Not So Glorious/Characters/Other/index\|Campaigns/Not So Glorious/Characters/Other/index]]
+> [!abstract] [[Campaigns/Not So Glorious/Characters/Other/Other\|Other]]
 > Mounts, familiars, animal companions, and other non-humanoids.
 > - **Total Cataloged:** 1 recorded

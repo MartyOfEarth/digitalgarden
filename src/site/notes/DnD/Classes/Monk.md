@@ -3,7 +3,11 @@
 ---
 
 # Monk
-- **Primary Ability:** Dexterity, Wisdom | **Hit Die:** d8 | **Saves:** Strength, Dexterity
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Dexterity, Wisdom
+> - Saves:: Strength, Dexterity
+
 - **Armor & Weapon Proficiencies:** Simple weapons, martial weapons with the Light property
 - **Overview:** A martial artist who channels an inner reservoir of metaphysical focus (Ki / Focus Points) to turn their body into a lethal weapon and dodge danger effortlessly.
 - **Key Features:**

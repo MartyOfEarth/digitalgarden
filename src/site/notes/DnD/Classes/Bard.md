@@ -3,7 +3,11 @@
 ---
 
 # Bard
-- **Primary Ability:** Charisma | **Hit Die:** d8 | **Saves:** Dexterity, Charisma
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Charisma
+> - Saves:: Dexterity, Charisma
+
 - **Armor & Weapon Proficiencies:** Light armor, simple weapons
 - **Overview:** An inspiring artist and versatile spellcaster whose music, words, and presence weave arcane magic to bolster allies and befuddle enemies.
 - **Key Features:**
@@ -13,7 +17,7 @@
   - **Magical Secrets:** Learn spells directly from the [[DnD/Classes/Cleric\|Cleric]], [[DnD/Classes/Druid\|Druid]], and [[DnD/Classes/Wizard\|Wizard]] spell lists.
 - **Subclasses:** College of Dance, College of Glamour, College of Lore, College of Valor.
 
-Invoking magic through music, dance, and verse, [[DnD/Classes/Bard\|Bards]] are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. [[DnD/Classes/Bard\|Bards]] believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any [[DnD/Languages/.md\|language]].
+Invoking magic through music, dance, and verse, [[DnD/Classes/Bard\|Bards]] are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. [[DnD/Classes/Bard\|Bards]] believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any [[DnD/Languages/Languages\|Languages]].
 
 Anything can inspire a new song or tale, so [[DnD/Classes/Bard\|Bards]] are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
 

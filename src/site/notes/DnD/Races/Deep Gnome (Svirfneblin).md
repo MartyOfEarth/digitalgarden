@@ -3,7 +3,11 @@
 ---
 
 ## Deep Gnome (Svirfneblin)
-- **Type:** Humanoid ([[DnD/Races/Gnome\|Gnome]]) | **Size:** Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid ([[DnD/Races/Gnome\|Gnome]])
+> - Size:: Small
+> - Speed:: 30 ft.
+
 - **Overview:** Hardy, gray-skinned subterranean [[DnD/Races/Gnome\|gnomes]] dwelling in the deepest recesses of the Underdark.
 - **Characteristics & Traits:**
   - **Superior Darkvision:** 120 ft.

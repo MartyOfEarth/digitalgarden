@@ -3,7 +3,11 @@
 ---
 
 ## Yuan-ti
-- **Type:** Humanoid (Serpentine) | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Serpentine)
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Serpent-folk born of ancient serpentine rites, possessing cold pragmatism, scaly features, and innate snake magic.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.

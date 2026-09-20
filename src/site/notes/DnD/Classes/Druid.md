@@ -3,7 +3,11 @@
 ---
 
 # Druid
-- **Primary Ability:** Wisdom | **Hit Die:** d8 | **Saves:** Intelligence, Wisdom
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Wisdom
+> - Saves:: Intelligence, Wisdom
+
 - **Armor & Weapon Proficiencies:** Light armor, medium armor, shields, simple weapons
 - **Overview:** A guardian of nature and balance who wields the raw primal elements of earth, sky, and sea, able to take the shape of untamed beasts.
 - **Key Features:**

@@ -3,7 +3,11 @@
 ---
 
 ## Elf
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Graceful, long-lived peoples deeply intertwined with magic, nature, and otherworldly realms.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft. | **Keen Senses:** Proficiency in Perception.

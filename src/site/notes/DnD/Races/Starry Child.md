@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/dn-d/races/starry-child/","dg-note-properties":{"aliases":["Starry children"]}}
 ---
 
+# Starry Child
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 ## Vessels of the Cosmos  
 The origin of the [[DnD/Races/Starry Child\|Starry Children]] is divided into two divine lineages: those born from the high constellations of stars (_High [[DnD/Races/Starry Child\|Starry Children]]_), and those born from other celestial bodies like moons (_Lunar [[DnD/Races/Starry Child\|Starry Children]]_).
 

@@ -3,7 +3,11 @@
 ---
 
 ## Satyr
-- **Type:** Fey | **Size:** Medium | **Speed:** 35 ft.
+> [!infobox] Statblock
+> - Type:: Fey
+> - Size:: Medium
+> - Speed:: 35 ft.
+
 - **Overview:** Goat-legged revelers from the Feywild who love wine, music, humor, and joyous celebration.
 - **Characteristics & Traits:**
   - **Magic Resistance:** Advantage on all saving throws against spells.

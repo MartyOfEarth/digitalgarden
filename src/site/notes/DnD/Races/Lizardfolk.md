@@ -3,7 +3,11 @@
 ---
 
 ## Lizardfolk
-- **Type:** Humanoid (Reptilian) | **Size:** Medium | **Speed:** 30 ft., Swim 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid (Reptilian)
+> - Size:: Medium
+> - Speed:: 30 ft., Swim 30 ft.
+
 - **Overview:** Pragmatic, cold-blooded marsh dwellers who craft gear from nature's bounty and rarely waste resources.
 - **Characteristics & Traits:**
   - **Bite:** Unarmed strike deals 1d6 + Strength modifier piercing damage.

@@ -3,7 +3,11 @@
 ---
 
 # Warlock
-- **Primary Ability:** Charisma | **Hit Die:** d8 | **Saves:** Wisdom, Charisma
+> [!infobox] Statblock
+> - hit_die :: d8
+> - primary_ability:: Charisma
+> - Saves:: Wisdom, Charisma
+
 - **Armor & Weapon Proficiencies:** Light armor, simple weapons
 - **Overview:** An arcane seeker bound by a supernatural pact with an otherworldly patron—be it an archfey, fiend, great old one, or [[DnD/Languages/Celestial\|celestial]]—wielding short-rest magic and eerie gifts.
 - **Key Features:**

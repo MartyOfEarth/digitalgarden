@@ -3,7 +3,11 @@
 ---
 
 ## Duergar
-- **Type:** Humanoid ([[DnD/Races/Dwarf\|Dwarf]]) | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid ([[DnD/Races/Dwarf\|Dwarf]])
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Gray [[DnD/Races/Dwarf\|dwarves]] forged in the subterranean Underdark, steeped in psionic abilities and dwarven resilience.
 - **Characteristics & Traits:**
   - **Superior Darkvision:** 120 ft.

@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/dn-d/languages/dwarvish/","dg-note-properties":{}}
 ---
 
-**Script:** Chisel
+# Dwarvish
+> [!infobox] Statblock
+> - Type:: Standard
+> - Script:: Chisel
 
-**Summary:** The [[DnD/Languages/.md\|language]] of the dwarves.
+**Summary:** The [[DnD/Languages/Languages\|Languages]] of the dwarves.
 
 **Sounds:** Dwarvish is full of hard consonants and guttural sounds. It sounds best when spoken by those with deep, booming voices, as to be heard over the loud noises of stoneworking, as well as over great distances. 
 

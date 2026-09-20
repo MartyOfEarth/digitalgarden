@@ -3,7 +3,11 @@
 ---
 
 ## Dragonborn
-- **Type:** Humanoid | **Size:** Medium | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium
+> - Speed:: 30 ft.
+
 - **Overview:** Proud, [[DnD/Languages/Draconic\|draconic]] humanoids with scaled skin, wielding innate elemental power inherited from chromatic or metallic dragons.
 - **Characteristics & Traits:**
   - **[[DnD/Languages/Draconic\|Draconic]] Ancestry:** A chosen dragon lineage determines breath weapon element and damage resistance.

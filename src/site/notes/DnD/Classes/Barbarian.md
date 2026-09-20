@@ -3,7 +3,11 @@
 ---
 
 # Barbarian
-- **Primary Ability:** Strength | **Hit Die:** d12 | **Saves:** Strength, Constitution
+> [!infobox] Statblock
+> - hit_die :: d12
+> - primary_ability:: Strength
+> - Saves:: Strength, Constitution
+
 - **Armor & Weapon Proficiencies:** Light armor, medium armor, shields, simple weapons, martial weapons
 - **Overview:** A fierce warrior driven by primal instinct and ferocious battle fury, capable of absorbing punishing blows and striking with savage might.
 - **Key Features:**

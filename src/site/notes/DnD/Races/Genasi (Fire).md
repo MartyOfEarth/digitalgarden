@@ -3,7 +3,11 @@
 ---
 
 ## Genasi (Fire)
-- **Type:** Humanoid | **Size:** Medium or Small | **Speed:** 30 ft.
+> [!infobox] Statblock
+> - Type:: Humanoid
+> - Size:: Medium or Small
+> - Speed:: 30 ft.
+
 - **Overview:** Mortals touched by efreet and the Plane of Fire, displaying smoldering hair, warm skin, or ember-toned eyes.
 - **Characteristics & Traits:**
   - **Darkvision:** 60 ft.
