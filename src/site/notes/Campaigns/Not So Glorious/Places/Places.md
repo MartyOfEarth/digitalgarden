@@ -18,7 +18,7 @@
 Cities, towns, keeps, and outposts where civilizations dwell and factions vie for control.
 - **Directory Hub:** [[Campaigns/Not So Glorious/Places/Settlements/Settlements\|Settlements]]
 - **Sub-Divisions:** Cities, Districts, Towns, Villages, Fortresses
-- **Total Locations:** 5 recorded
+- **Total Locations:** 6 recorded
 
 ### Regions & Provinces
 Broad territorial expanses, provinces, cultural zones, and border domains.
@@ -44,6 +44,7 @@ Monoliths, ancient ruins, shrines, forgotten towers, and unique tactical sites.
 | ---------------------------------------------------------------------------------------------------------- | ---------- | ------ |
 | [[Campaigns/Not So Glorious/Places/Landscapes/Ironvein Mountains\|Ironvein Mountains]]                  | Landscape  | NA     |
 | [[Campaigns/Not So Glorious/Places/Landscapes/Serpentine River\|Serpentine River]]                      | Landscape  | NA     |
+| [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]]                                     | \-         | \-     |
 | [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich\|Outer Yelkwich]]                | District   | NA     |
 | [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/The Vael\|The Vael]]                            | District   | NA     |
 | [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]]                            | Settlement | NA     |
