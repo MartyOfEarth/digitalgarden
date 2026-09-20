@@ -23,7 +23,7 @@
 > The primary ongoing campaign tracking an unlikely company navigating contracts, ancient ruins, and shifting political borders.
 > 
 > * **Cast & Companions:** [[Campaigns/Not So Glorious/Characters/Characters\|Characters]]
->   * 4 [[Campaigns/Not So Glorious/Characters/Party/.md\|Adventurers]] · 1 [[Campaigns/Not So Glorious/Characters/NPCs/NPCs\|NPCs]] · 1 [[Campaigns/Not So Glorious/Characters/Other/Other\|Beasts & Companions]]
+>   * 4 [[Campaigns/Not So Glorious/Characters/Party/Party\|Adventurers]] · 1 [[Campaigns/Not So Glorious/Characters/NPCs/NPCs\|NPCs]] · 1 [[Campaigns/Not So Glorious/Characters/Other/Other\|Beasts & Companions]]
 > * **Geography & Sites:** [[Campaigns/Not So Glorious/Places/Places\|Places]]
 >   * [[Campaigns/Not So Glorious/Places/Settlements/Settlements\|Settlements]] · [[Campaigns/Not So Glorious/Places/Landscapes/Landscapes\|Landscapes]] · [[Campaigns/Not So Glorious/Places/Landmarks/Landmarks\|Landmarks]] · [[Campaigns/Not So Glorious/Places/Regions/Regions\|Regions]]
 > * **Annals of Time:** [[Campaigns/Not So Glorious/History/History\|History]]
@@ -41,7 +41,7 @@
 > | **[[DnD/Bestiary/Bestiary\|Bestiary]]** | Monsters, mounts, summons, and boss encounters | 89 entries |
 > | **[[DnD/Classes/Classes\|Classes]]** | Class paths, martial features, and magic traditions | 13 classes |
 > | **[[DnD/Races/Races\|Races]]** | Lineages, ancestries, and racial abilities | 40 ancestries |
-> | **[[Languages 1\|Languages 1]]** | Standard tongues, exotic dialects, and ancient scripts | 23 scripts |
+> | **[[DnD/Languages/Languages\|Languages]]** | Standard tongues, exotic dialects, and ancient scripts | 23 scripts |
 
 ---
 
