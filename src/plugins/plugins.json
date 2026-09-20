@@ -3,6 +3,9 @@
   "plugins": {
     "dg-search": {
       "enabled": true
+    },
+    "dg-filetree": {
+      "enabled": false
     }
   }
 }
