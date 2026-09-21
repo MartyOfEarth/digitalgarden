@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/gith/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/gith/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Gith

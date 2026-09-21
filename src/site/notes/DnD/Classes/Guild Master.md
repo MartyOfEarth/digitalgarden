@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/guild-master/","dg-note-properties":{"aliases":["guildmaster","guild masters","guildmasters","guild master's","guildmaster's"]}}
+{"aliases":["guildmaster","guild masters","guildmasters","guild master's","guildmaster's"],"dg-publish":true,"permalink":"/dn-d/classes/guild-master/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["guildmaster","guild masters","guildmasters","guild master's","guildmaster's"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/human/","dg-note-properties":{"aliases":["Humans"]}}
+{"aliases":["Humans"],"dg-publish":true,"permalink":"/dn-d/races/human/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Humans"]}}
 ---
 
 ## Human

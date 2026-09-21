@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/quasit/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/quasit/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Quasit

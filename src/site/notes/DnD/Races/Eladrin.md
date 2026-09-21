@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/eladrin/","dg-note-properties":{"aliases":["Eladrins","eladrinish"]}}
+{"aliases":["Eladrins","eladrinish"],"dg-publish":true,"permalink":"/dn-d/races/eladrin/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Eladrins","eladrinish"]}}
 ---
 
 ## Eladrin

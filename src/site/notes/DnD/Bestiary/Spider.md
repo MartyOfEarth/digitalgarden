@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/spider/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/spider/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Spider

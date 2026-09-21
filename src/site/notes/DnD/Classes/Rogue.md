@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/rogue/","dg-note-properties":{"aliases":["Rogues"]}}
+{"aliases":["Rogues"],"dg-publish":true,"permalink":"/dn-d/classes/rogue/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Rogues"]}}
 ---
 
 # Rogue

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/dwarvish/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/dwarvish/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Dwarvish

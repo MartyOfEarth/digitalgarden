@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/riding-horse/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/riding-horse/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Riding Horse

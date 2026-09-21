@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/sorcerer/","dg-note-properties":{"aliases":["Sorcerers"]}}
+{"aliases":["Sorcerers"],"dg-publish":true,"permalink":"/dn-d/classes/sorcerer/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Sorcerers"]}}
 ---
 
 # Sorcerer

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/skeleton/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/skeleton/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Skeleton

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/celestial/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/celestial/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Celestial

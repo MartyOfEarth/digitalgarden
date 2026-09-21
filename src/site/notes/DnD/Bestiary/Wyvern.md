@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/wyvern/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/wyvern/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Wyvern

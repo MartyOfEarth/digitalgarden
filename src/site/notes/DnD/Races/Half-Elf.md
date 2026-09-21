@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/half-elf/","dg-note-properties":{"aliases":["Half-elvish","half-elves","half-elfs","Half elf","Half elvish","Half elves","half elfs"]}}
+{"dg-publish":true,"aliases":["Half-elvish","half-elves","half-elfs","Half elf","Half elvish","Half elves","half elfs"],"permalink":"/dn-d/races/half-elf/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Half-elvish","half-elves","half-elfs","Half elf","Half elvish","Half elves","half elfs"]}}
 ---
 
 # Half-Elf

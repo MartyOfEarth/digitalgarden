@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/sprite/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/sprite/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Sprite

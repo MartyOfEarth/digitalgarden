@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/rat/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/rat/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Rat

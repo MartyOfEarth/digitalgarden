@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/aquan/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/aquan/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Aquan

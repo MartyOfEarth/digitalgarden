@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/auran/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/auran/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Auran

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/aasimar/","dg-note-properties":{"aliases":["Aasimarian","Aasimaran","Aasimaras","Aasimars"]}}
+{"aliases":["Aasimarian","Aasimaran","Aasimaras","Aasimars"],"dg-publish":true,"permalink":"/dn-d/races/aasimar/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aasimarian","Aasimaran","Aasimaras","Aasimars"]}}
 ---
 
 ## Aasimar

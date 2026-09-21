@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/gnome/","dg-note-properties":{"aliases":["Gnomish","gnomes"]}}
+{"aliases":["Gnomish","gnomes"],"dg-publish":true,"permalink":"/dn-d/races/gnome/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Gnomish","gnomes"]}}
 ---
 
 ## Gnome

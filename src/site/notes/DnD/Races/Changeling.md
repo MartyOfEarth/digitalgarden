@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/changeling/","dg-note-properties":{"aliases":["Changelings"]}}
+{"aliases":["Changelings"],"dg-publish":true,"permalink":"/dn-d/races/changeling/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Changelings"]}}
 ---
 
 ## Changeling

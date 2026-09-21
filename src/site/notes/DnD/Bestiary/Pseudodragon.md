@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/pseudodragon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/pseudodragon/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Pseudodragon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/duergar/","dg-note-properties":{"aliases":["Duergars","duergarish"]}}
+{"aliases":["Duergars","duergarish"],"dg-publish":true,"permalink":"/dn-d/races/duergar/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Duergars","duergarish"]}}
 ---
 
 ## Duergar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/deep-speech/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/deep-speech/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Deep Speech

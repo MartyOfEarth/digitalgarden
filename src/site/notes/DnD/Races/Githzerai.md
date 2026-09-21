@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/githzerai/","dg-note-properties":{"aliases":["Githzerais","githzeraian"]}}
+{"aliases":["Githzerais","githzeraian"],"dg-publish":true,"permalink":"/dn-d/races/githzerai/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Githzerais","githzeraian"]}}
 ---
 
 ## Githzerai

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/wraith/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/wraith/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Wraith

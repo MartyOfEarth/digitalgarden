@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/monk/","dg-note-properties":{"aliases":["Monks"]}}
+{"aliases":["Monks"],"dg-publish":true,"permalink":"/dn-d/classes/monk/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Monks"]}}
 ---
 
 # Monk

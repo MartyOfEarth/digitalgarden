@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/elf/","dg-note-properties":{"aliases":["Elv","elvish","elfs","elves"]}}
+{"aliases":["Elv","elvish","elfs","elves"],"dg-publish":true,"permalink":"/dn-d/races/elf/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Elv","elvish","elfs","elves"]}}
 ---
 
 ## Elf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/halfling/","dg-note-properties":{"aliases":["Halflingish","halflings"]}}
+{"aliases":["Halflingish","halflings"],"dg-publish":true,"permalink":"/dn-d/races/halfling/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Halflingish","halflings"]}}
 ---
 
 ## Halfling

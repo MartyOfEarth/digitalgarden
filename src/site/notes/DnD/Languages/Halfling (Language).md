@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/halfling-language/","dg-note-properties":{"aliases":["Halfling language","Halflingish"]}}
+{"dg-publish":true,"aliases":["Halfling language","Halflingish"],"permalink":"/dn-d/languages/halfling-language/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Halfling language","Halflingish"]}}
 ---
 
 # Halfling

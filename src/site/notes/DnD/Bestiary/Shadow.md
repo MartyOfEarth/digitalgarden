@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/shadow/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/shadow/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Shadow

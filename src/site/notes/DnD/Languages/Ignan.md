@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/ignan/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/ignan/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Ignan

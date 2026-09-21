@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/githyanki/","dg-note-properties":{"aliases":["Githyankis","githyankish"]}}
+{"aliases":["Githyankis","githyankish"],"dg-publish":true,"permalink":"/dn-d/races/githyanki/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Githyankis","githyankish"]}}
 ---
 
 ## Githyanki

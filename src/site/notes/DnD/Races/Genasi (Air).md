@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/genasi-air/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/races/genasi-air/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Genasi (Air)

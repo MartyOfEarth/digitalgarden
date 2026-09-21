@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/hobgoblin/","dg-note-properties":{"aliases":["Hobgoblins","hobgoblinish"]}}
+{"aliases":["Hobgoblins","hobgoblinish"],"dg-publish":true,"permalink":"/dn-d/races/hobgoblin/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Hobgoblins","hobgoblinish"]}}
 ---
 
 ## Hobgoblin

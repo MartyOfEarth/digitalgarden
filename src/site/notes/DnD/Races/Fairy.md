@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/fairy/","dg-note-properties":{"aliases":["Fairies","fairish"]}}
+{"aliases":["Fairies","fairish"],"dg-publish":true,"permalink":"/dn-d/races/fairy/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Fairies","fairish"]}}
 ---
 
 ## Fairy

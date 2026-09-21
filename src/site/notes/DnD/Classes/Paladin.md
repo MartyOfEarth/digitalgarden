@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/paladin/","dg-note-properties":{"aliases":["Paladins"]}}
+{"aliases":["Paladins"],"dg-publish":true,"permalink":"/dn-d/classes/paladin/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Paladins"]}}
 ---
 
 # Paladin

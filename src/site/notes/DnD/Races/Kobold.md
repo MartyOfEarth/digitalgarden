@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/kobold/","dg-note-properties":{"aliases":["Kobolds","koboldish","koboldian"]}}
+{"aliases":["Kobolds","koboldish","koboldian"],"dg-publish":true,"permalink":"/dn-d/races/kobold/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kobolds","koboldish","koboldian"]}}
 ---
 
 ## Kobold

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/shield-guardian/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/shield-guardian/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Shield Guardian

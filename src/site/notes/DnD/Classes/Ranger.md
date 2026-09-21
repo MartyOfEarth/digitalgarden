@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/ranger/","dg-note-properties":{"aliases":["Rangers"]}}
+{"aliases":["Rangers"],"dg-publish":true,"permalink":"/dn-d/classes/ranger/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Rangers"]}}
 ---
 
 # Ranger

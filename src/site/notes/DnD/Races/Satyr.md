@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/satyr/","dg-note-properties":{"aliases":["Satyrs","satyrian","satyrish"]}}
+{"aliases":["Satyrs","satyrian","satyrish"],"dg-publish":true,"permalink":"/dn-d/races/satyr/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Satyrs","satyrian","satyrish"]}}
 ---
 
 ## Satyr

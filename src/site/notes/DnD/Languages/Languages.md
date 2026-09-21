@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/languages/","dg-note-properties":{"aliases":["Language list","Language"]}}
+{"dg-publish":true,"aliases":["Language list","Language"],"permalink":"/dn-d/languages/languages/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Language list","Language"]}}
 ---
 
 Different languages are written in different scripts, dependant primarily on the tools used to write them;

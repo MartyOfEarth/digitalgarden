@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/classes/","dg-note-properties":{"aliases":["Class","class list","list of classes","Comprehensive list of classes"]}}
+{"aliases":["Class","class list","list of classes","Comprehensive list of classes"],"dg-publish":true,"permalink":"/dn-d/classes/classes/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Class","class list","list of classes","Comprehensive list of classes"]}}
 ---
 
 ### Comprehensive list of Classes

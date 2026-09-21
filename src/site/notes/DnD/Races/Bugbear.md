@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/bugbear/","dg-note-properties":{"aliases":["Bugbears","Bugbearian"]}}
+{"aliases":["Bugbears","Bugbearian"],"dg-publish":true,"permalink":"/dn-d/races/bugbear/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Bugbears","Bugbearian"]}}
 ---
 
 ## Bugbear

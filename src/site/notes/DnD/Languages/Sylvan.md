@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/sylvan/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/sylvan/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Sylvan

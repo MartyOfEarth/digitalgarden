@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/orcish/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/orcish/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Orcish

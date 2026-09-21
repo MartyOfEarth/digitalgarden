@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/artificer/","dg-note-properties":{"aliases":["Artificers"]}}
+{"aliases":["Artificers"],"dg-publish":true,"permalink":"/dn-d/classes/artificer/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Artificers"]}}
 ---
 
 # Artificer

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/elvish/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/elvish/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Elvish

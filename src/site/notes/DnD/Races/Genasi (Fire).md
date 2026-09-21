@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/genasi-fire/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/races/genasi-fire/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Genasi (Fire)

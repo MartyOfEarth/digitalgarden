@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/harengon/","dg-note-properties":{"aliases":["Harengons","harengonian","harengonan"]}}
+{"aliases":["Harengons","harengonian","harengonan"],"dg-publish":true,"permalink":"/dn-d/races/harengon/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Harengons","harengonian","harengonan"]}}
 ---
 
 ## Harengon

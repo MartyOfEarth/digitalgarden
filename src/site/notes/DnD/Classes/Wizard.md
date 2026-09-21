@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/wizard/","dg-note-properties":{"aliases":["Wizards"]}}
+{"aliases":["Wizards"],"dg-publish":true,"permalink":"/dn-d/classes/wizard/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Wizards"]}}
 ---
 
 # Wizard

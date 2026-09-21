@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/vampire/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/vampire/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Vampire

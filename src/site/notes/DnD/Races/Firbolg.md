@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/firbolg/","dg-note-properties":{"aliases":["Firbolgs","firbolgish"]}}
+{"aliases":["Firbolgs","firbolgish"],"dg-publish":true,"permalink":"/dn-d/races/firbolg/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Firbolgs","firbolgish"]}}
 ---
 
 ## Firbolg

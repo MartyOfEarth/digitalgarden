@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/raven/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/raven/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Raven

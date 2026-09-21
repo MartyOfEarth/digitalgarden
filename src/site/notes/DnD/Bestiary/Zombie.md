@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/zombie/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/zombie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Zombie

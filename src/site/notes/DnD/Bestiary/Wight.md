@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/wight/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/wight/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Wight

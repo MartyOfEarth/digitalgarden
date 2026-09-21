@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/goblin-language/","dg-note-properties":{"aliases":["Goblin Language"]}}
+{"dg-publish":true,"aliases":["Goblin Language"],"permalink":"/dn-d/languages/goblin-language/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Goblin Language"]}}
 ---
 
 # Goblin

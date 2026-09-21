@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/veteran/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/veteran/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Veteran

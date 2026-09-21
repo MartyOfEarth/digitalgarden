@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/genasi/","dg-note-properties":{"aliases":["Genasis","genasian"]}}
+{"aliases":["Genasis","genasian"],"dg-publish":true,"permalink":"/dn-d/races/genasi/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Genasis","genasian"]}}
 ---
 
 > [!infobox] Statblock

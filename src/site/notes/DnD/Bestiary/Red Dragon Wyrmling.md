@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/red-dragon-wyrmling/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/red-dragon-wyrmling/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Red Dragon Wyrmling

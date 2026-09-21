@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/deep-gnome-svirfneblin/","dg-note-properties":{"aliases":["Deep gnomes","deep gnomish"]}}
+{"aliases":["Deep gnomes","deep gnomish"],"dg-publish":true,"permalink":"/dn-d/races/deep-gnome-svirfneblin/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Deep gnomes","deep gnomish"]}}
 ---
 
 ## Deep Gnome (Svirfneblin)

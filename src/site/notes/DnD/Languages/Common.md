@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/common/","dg-note-properties":{"aliases":["common","Common language","common language"]}}
+{"dg-publish":true,"aliases":["common","Common language","common language"],"permalink":"/dn-d/languages/common/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["common","Common language","common language"]}}
 ---
 
 # Common

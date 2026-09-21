@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/bard/","dg-note-properties":{"aliases":["Bards"]}}
+{"aliases":["Bards"],"dg-publish":true,"permalink":"/dn-d/classes/bard/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Bards"]}}
 ---
 
 # Bard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/abyssal-infernal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/abyssal-infernal/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Abyssal (Infernal)

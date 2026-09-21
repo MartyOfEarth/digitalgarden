@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/dwarf/","dg-note-properties":{"aliases":["Dwarvish","dwarv","dwarves","dwarfs","dwarvs"]}}
+{"aliases":["Dwarvish","dwarv","dwarves","dwarfs","dwarvs"],"dg-publish":true,"permalink":"/dn-d/races/dwarf/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Dwarvish","dwarv","dwarves","dwarfs","dwarvs"]}}
 ---
 
 ## Dwarf

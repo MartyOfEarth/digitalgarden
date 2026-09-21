@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/rust-monster/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/rust-monster/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Rust Monster

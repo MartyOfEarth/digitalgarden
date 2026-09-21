@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/priest/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/priest/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Priest

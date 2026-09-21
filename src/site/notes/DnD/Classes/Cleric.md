@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/cleric/","dg-note-properties":{"aliases":["Clerics"]}}
+{"aliases":["Clerics"],"dg-publish":true,"permalink":"/dn-d/classes/cleric/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Clerics"]}}
 ---
 
 # Cleric

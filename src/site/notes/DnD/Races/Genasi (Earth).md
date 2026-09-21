@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/genasi-earth/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/races/genasi-earth/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Genasi (Earth)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/dragonborn/","dg-note-properties":{"aliases":["Dragonborns","dragonborne","dragonbornish","dragonbornes"]}}
+{"aliases":["Dragonborns","dragonborne","dragonbornish","dragonbornes"],"dg-publish":true,"permalink":"/dn-d/races/dragonborn/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Dragonborns","dragonborne","dragonbornish","dragonbornes"]}}
 ---
 
 ## Dragonborn

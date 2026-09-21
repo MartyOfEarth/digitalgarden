@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/druid/","dg-note-properties":{"aliases":["Druids","druidish"]}}
+{"aliases":["Druids","druidish"],"dg-publish":true,"permalink":"/dn-d/classes/druid/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Druids","druidish"]}}
 ---
 
 # Druid

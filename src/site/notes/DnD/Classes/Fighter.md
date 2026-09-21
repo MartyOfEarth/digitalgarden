@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/fighter/","dg-note-properties":{"aliases":["Fighters"]}}
+{"aliases":["Fighters"],"dg-publish":true,"permalink":"/dn-d/classes/fighter/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Fighters"]}}
 ---
 
 # Fighter

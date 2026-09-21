@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/primordial/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/primordial/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Primordial

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/aarakocra-language/","dg-note-properties":{"aliases":["Aarakocrian","aarakocrian","Aarakocra Language","aarakocra language","Aarakocran"]}}
+{"dg-publish":true,"aliases":["Aarakocrian","aarakocrian","Aarakocra Language","aarakocra language","Aarakocran"],"permalink":"/dn-d/languages/aarakocra-language/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aarakocrian","aarakocrian","Aarakocra Language","aarakocra language","Aarakocran"]}}
 ---
 
 # Aarakocra

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/troll/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/troll/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Troll

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/terran/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/terran/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Terran

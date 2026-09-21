@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/lizardfolk/","dg-note-properties":{"aliases":["Lizardish","lizards","lizardman"]}}
+{"aliases":["Lizardish","lizards","lizardman"],"dg-publish":true,"permalink":"/dn-d/races/lizardfolk/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Lizardish","lizards","lizardman"]}}
 ---
 
 ## Lizardfolk

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/barbarian/","dg-note-properties":{"aliases":["Barbarians"]}}
+{"aliases":["Barbarians"],"dg-publish":true,"permalink":"/dn-d/classes/barbarian/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Barbarians"]}}
 ---
 
 # Barbarian

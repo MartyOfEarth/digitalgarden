@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/dn-d/","tags":["moc","compendium","underground"],"dg-note-properties":{"tags":["moc","compendium","underground"]}}
+{"dg-home":false,"dg-publish":true,"tags":["moc","compendium","underground"],"permalink":"/dn-d/dn-d/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","compendium","underground"]}}
 ---
 
 # D&D 5e Compendium

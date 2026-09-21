@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/goblin/","dg-note-properties":{"aliases":["goblinish","goblins"]}}
+{"aliases":["goblinish","goblins"],"dg-publish":true,"permalink":"/dn-d/races/goblin/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["goblinish","goblins"]}}
 ---
 
 ## Goblin

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/aarakocra/","dg-note-properties":{"aliases":["Aarakocran","Aarakocras","Aarakocrans"]}}
+{"aliases":["Aarakocran","Aarakocras","Aarakocrans"],"dg-publish":true,"permalink":"/dn-d/races/aarakocra/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aarakocran","Aarakocras","Aarakocrans"]}}
 ---
 
 ## Aarakocra

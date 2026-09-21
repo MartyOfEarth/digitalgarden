@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/centaur/","dg-note-properties":{"aliases":["Centaurs","Centaurian"]}}
+{"aliases":["Centaurs","Centaurian"],"dg-publish":true,"permalink":"/dn-d/races/centaur/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Centaurs","Centaurian"]}}
 ---
 
 ## Centaur

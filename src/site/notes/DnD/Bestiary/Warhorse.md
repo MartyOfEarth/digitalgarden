@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/warhorse/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/warhorse/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Warhorse

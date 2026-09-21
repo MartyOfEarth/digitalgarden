@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/thieves-cant/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/thieves-cant/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Thieves' Cant

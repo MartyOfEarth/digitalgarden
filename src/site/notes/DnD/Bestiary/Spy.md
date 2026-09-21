@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/spy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/spy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Spy

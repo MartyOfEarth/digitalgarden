@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/giant-jotun/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/giant-jotun/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant (Jotun)

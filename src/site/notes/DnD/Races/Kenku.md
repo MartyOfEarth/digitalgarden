@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/kenku/","dg-note-properties":{"aliases":["Kenkus"]}}
+{"aliases":["Kenkus"],"dg-publish":true,"permalink":"/dn-d/races/kenku/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kenkus"]}}
 ---
 
 ## Kenku

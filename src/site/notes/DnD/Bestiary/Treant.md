@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/treant/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/treant/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Treant

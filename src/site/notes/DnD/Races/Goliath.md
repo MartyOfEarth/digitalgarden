@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/goliath/","dg-note-properties":{"aliases":["Goliaths","goliathian","goliathan"]}}
+{"aliases":["Goliaths","goliathian","goliathan"],"dg-publish":true,"permalink":"/dn-d/races/goliath/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Goliaths","goliathian","goliathan"]}}
 ---
 
 ## Goliath

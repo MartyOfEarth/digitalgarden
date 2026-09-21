@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/classes/warlock/","dg-note-properties":{"aliases":["Warlocks"]}}
+{"aliases":["Warlocks"],"dg-publish":true,"permalink":"/dn-d/classes/warlock/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Warlocks"]}}
 ---
 
 # Warlock

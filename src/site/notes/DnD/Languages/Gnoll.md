@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/languages/gnoll/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/languages/gnoll/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Gnoll

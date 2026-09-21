@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/orc/","dg-note-properties":{"aliases":["Orcish","Orcs"]}}
+{"aliases":["Orcish","Orcs"],"dg-publish":true,"permalink":"/dn-d/races/orc/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Orcish","Orcs"]}}
 ---
 
 ## Orc

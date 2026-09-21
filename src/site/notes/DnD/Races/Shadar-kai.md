@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/shadar-kai/","dg-note-properties":{"aliases":["Shadar kai","shadar kais","shadar-kais"]}}
+{"aliases":["Shadar kai","shadar kais","shadar-kais"],"dg-publish":true,"permalink":"/dn-d/races/shadar-kai/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Shadar kai","shadar kais","shadar-kais"]}}
 ---
 
 ## Shadar-kai

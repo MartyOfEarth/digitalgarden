@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/races/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/races/races/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ### Comprehensive list of races.

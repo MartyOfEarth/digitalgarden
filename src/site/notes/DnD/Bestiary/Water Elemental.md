@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/water-elemental/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/water-elemental/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Water Elemental
