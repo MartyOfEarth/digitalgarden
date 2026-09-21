@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/tortle/","dg-note-properties":{"aliases":["Toetles","tortlish"]}}
+{"aliases":["Toetles","tortlish"],"dg-publish":true,"permalink":"/dn-d/races/tortle/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Toetles","tortlish"]}}
 ---
 
 ## Tortle

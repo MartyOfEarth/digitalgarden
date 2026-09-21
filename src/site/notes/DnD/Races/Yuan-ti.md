@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/yuan-ti/","dg-note-properties":{"aliases":["Yuan tis","yuan ti","yuan-tis"]}}
+{"aliases":["Yuan tis","yuan ti","yuan-tis"],"dg-publish":true,"permalink":"/dn-d/races/yuan-ti/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Yuan tis","yuan ti","yuan-tis"]}}
 ---
 
 ## Yuan-ti

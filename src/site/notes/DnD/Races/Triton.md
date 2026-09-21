@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/triton/","dg-note-properties":{"aliases":["tritonish","tritons"]}}
+{"aliases":["tritonish","tritons"],"dg-publish":true,"permalink":"/dn-d/races/triton/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["tritonish","tritons"]}}
 ---
 
 ## Triton

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/tabaxi/","dg-note-properties":{"aliases":["Tabaxis","tabaxian"]}}
+{"aliases":["Tabaxis","tabaxian"],"dg-publish":true,"permalink":"/dn-d/races/tabaxi/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Tabaxis","tabaxian"]}}
 ---
 
 ## Tabaxi

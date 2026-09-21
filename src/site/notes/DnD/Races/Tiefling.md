@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/tiefling/","dg-note-properties":{"aliases":["Tieflings","Tieflingish"]}}
+{"aliases":["Tieflings","Tieflingish"],"dg-publish":true,"permalink":"/dn-d/races/tiefling/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Tieflings","Tieflingish"]}}
 ---
 
 ## Tiefling

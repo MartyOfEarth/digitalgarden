@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/races/starry-child/","dg-note-properties":{"aliases":["Starry children"]}}
+{"dg-publish":true,"aliases":["Starry children"],"permalink":"/dn-d/races/starry-child/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Starry children"]}}
 ---
 
 # Starry Child
@@ -9,7 +9,7 @@
 > - Speed:: 30 ft.
 
 ## Vessels of the Cosmos  
-The origin of the [[DnD/Races/Starry Child\|Starry Children]] is divided into two divine lineages: those born from the high constellations of stars (_High [[DnD/Races/Starry Child\|Starry Children]]_), and those born from other celestial bodies like moons (_Lunar [[DnD/Races/Starry Child\|Starry Children]]_).
+The origin of [[DnD/Races/Starry Child\|Starry Children]] is divided into two divine lineages: those born from the high constellations of stars (_High [[DnD/Races/Starry Child\|Starry Children]]_), and those born from other celestial bodies like moons (_Lunar [[DnD/Races/Starry Child\|Starry Children]]_).
 
 The High [[DnD/Races/Starry Child\|Starry Children]] are anchored directly in the High Sky to weave pathways across the cosmos, establishing eternal order and peace. In contrast, Lunar [[DnD/Races/Starry Child\|Starry Children]] possess the innate ability to shift fluidly between a radiant star form and a humanoid shape at will. Whenever mortals witness a falling star streak across the night, it is simply a [[DnD/Races/Starry Child\|Starry Child]] descending to the mortal world.
 
