@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/lich/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/lich/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Lich

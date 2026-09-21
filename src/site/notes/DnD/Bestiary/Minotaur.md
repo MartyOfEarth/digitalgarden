@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/minotaur/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/minotaur/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Minotaur

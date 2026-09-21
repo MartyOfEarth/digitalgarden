@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/cultist/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/cultist/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Cultist

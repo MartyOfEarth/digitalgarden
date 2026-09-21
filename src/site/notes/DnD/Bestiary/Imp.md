@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/imp/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/imp/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Imp

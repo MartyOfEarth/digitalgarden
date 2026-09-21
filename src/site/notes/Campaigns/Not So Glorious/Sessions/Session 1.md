@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/sessions/session-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/sessions/session-1/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]], hired by a [[DnD/Races/Tiefling\|Tiefling]] working for [[Campaigns/Not So Glorious/Characters/NPCs/Melyre\|Melyre]] to guard the door of [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]] while [[Campaigns/Not So Glorious/Characters/NPCs/Melyre\|Melyre]] planned a revenge attack on [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] after she refused to join his gang, comes to the tavern. Something seems off to him, and when he arrives he finds [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] fighting a bunch of Orcs led by [[Campaigns/Not So Glorious/Characters/NPCs/Melyre\|Melyre]] and he decides to join the fight on [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay's]] side. Meanwhile, [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin]] is performing on the stage and decides to join in order to protect [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] from these sketchy men.

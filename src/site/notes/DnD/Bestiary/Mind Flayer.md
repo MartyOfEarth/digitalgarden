@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/mind-flayer/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/mind-flayer/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Mind Flayer

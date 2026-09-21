@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/hobgoblin/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/hobgoblin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Hobgoblin\|DnD/Bestiary/Hobgoblin]]

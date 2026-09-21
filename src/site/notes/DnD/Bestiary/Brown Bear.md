@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/brown-bear/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/brown-bear/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Brown Bear

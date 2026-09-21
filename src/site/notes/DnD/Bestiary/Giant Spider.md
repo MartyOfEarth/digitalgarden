@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-spider/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-spider/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant Spider

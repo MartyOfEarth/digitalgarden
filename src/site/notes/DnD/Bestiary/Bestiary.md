@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/bestiary/","tags":["moc","bestiary"],"dg-note-properties":{"tags":["moc","bestiary"]}}
+{"tags":["moc","bestiary"],"dg-publish":true,"permalink":"/dn-d/bestiary/bestiary/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","bestiary"]}}
 ---
 
 # Master Bestiary

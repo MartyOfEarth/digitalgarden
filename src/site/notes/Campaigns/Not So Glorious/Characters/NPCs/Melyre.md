@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/np-cs/melyre/","dg-note-properties":{"Alignment":"Enemy"}}
+{"dg-publish":true,"Alignment":"Enemy","permalink":"/campaigns/not-so-glorious/characters/np-cs/melyre/","dgPassFrontmatter":true,"dg-note-properties":{"Alignment":"Enemy"}}
 ---
 
-Melyre is a gang leader in [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]] who mingles about in [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]]. He tried to recruit [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] to his gang, and after she refuses, tried to attack her, causing the whole [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]] fight for which he hired [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]] to guard the door so that she doesn't escape. The fight ends with him suffering a concussion due to Kóokay's hit and Melyre leaves the tavern.
+**Melyre** is a gang leader operating in the settlement of [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]], known for frequenting the tavern known as [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Inner Yelkwich/The Leaky Tap\|The Leaky Tap]].
+
+### The Leaky Tap Fight
+
+Melyre attempted to forcibly recruit [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]] into his gang. Following her refusal, Melyre initiated an attack against her, inciting a larger brawl within the tavern. To prevent [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay’s]] escape, Melyre contracted a mercenary [[DnD/Races/Orc\|Orc]] named [[Campaigns/Not So Glorious/Characters/Party/Ravrokk\|Ravrokk]] to secure the exit. 
+
+The altercation concluded after Melyre sustained a concussion from a direct strike by [[Campaigns/Not So Glorious/Characters/Party/Kóokay\|Kóokay]], forcing his retreat from the establishment.

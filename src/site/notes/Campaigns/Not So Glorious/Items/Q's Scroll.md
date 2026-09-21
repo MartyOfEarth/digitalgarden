@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/items/q-s-scroll/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/items/q-s-scroll/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 The scroll the [[Campaigns/Not So Glorious/Characters/Party/Party\|Party]] received in [[Campaigns/Not So Glorious/Sessions/Session 1\|Session 1]] after leaving the prison.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/landmarks/landmarks/","tags":["moc","landmarks"],"dg-note-properties":{"tags":["moc","landmarks"]}}
+{"tags":["moc","landmarks"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/landmarks/landmarks/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","landmarks"]}}
 ---
 
 

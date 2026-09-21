@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-elk/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-elk/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant Elk

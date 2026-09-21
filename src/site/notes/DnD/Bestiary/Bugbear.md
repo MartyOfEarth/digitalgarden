@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/bugbear/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/bugbear/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Bugbear\|DnD/Bestiary/Bugbear]]

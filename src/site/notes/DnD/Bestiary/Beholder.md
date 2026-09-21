@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/beholder/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/beholder/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Beholder

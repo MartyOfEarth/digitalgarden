@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/outer-yelkwich/docks/","dg-note-properties":{"Type":"District","Region":"Greater Yelkwich"}}
+{"dg-publish":true,"Type":"District","Region":"Greater Yelkwich","permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/outer-yelkwich/docks/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"District","Region":"Greater Yelkwich"}}
 ---
 

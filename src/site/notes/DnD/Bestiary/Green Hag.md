@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/green-hag/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/green-hag/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Green Hag

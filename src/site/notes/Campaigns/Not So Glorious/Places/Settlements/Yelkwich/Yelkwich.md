@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/yelkwich/","dg-note-properties":{"Type":"Settlement","Region":"Greater Yelkwich"}}
+{"dg-publish":true,"Type":"Settlement","Region":"Greater Yelkwich","permalink":"/campaigns/not-so-glorious/places/settlements/yelkwich/yelkwich/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"Settlement","Region":"Greater Yelkwich"}}
 ---
 
 ## About

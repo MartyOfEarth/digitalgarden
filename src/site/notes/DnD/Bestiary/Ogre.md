@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/ogre/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/ogre/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Ogre

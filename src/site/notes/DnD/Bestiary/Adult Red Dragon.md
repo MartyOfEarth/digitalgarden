@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/adult-red-dragon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/adult-red-dragon/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Adult Red Dragon

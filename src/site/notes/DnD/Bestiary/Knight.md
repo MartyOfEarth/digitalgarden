@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/knight/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/knight/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Knight

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/settlements/","tags":["moc","settlements"],"dg-note-properties":{"tags":["moc","settlements"]}}
+{"tags":["moc","settlements"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/settlements/settlements/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","settlements"]}}
 ---
 
 

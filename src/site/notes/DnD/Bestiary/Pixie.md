@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/pixie/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/pixie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Pixie

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/displacer-beast/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/displacer-beast/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Displacer Beast

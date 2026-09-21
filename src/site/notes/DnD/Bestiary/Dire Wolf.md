@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/dire-wolf/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/dire-wolf/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Dire Wolf

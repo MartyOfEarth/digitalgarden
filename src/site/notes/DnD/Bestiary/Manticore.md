@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/manticore/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/manticore/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Manticore

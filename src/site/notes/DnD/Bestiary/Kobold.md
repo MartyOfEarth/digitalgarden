@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/kobold/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/kobold/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Kobold\|DnD/Bestiary/Kobold]]

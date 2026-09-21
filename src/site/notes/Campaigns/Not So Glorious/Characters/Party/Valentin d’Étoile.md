@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/party/valentin-d-etoile/","dg-note-properties":{"Player":"Marty","Race":"[[DnD/Races/Starry Child]]","Class":"[[DnD/Classes/Bard]]","Level":"1","aliases":["Valentin"]}}
+{"dg-publish":true,"Player":"Marty","Race":"[[Starry Child]]","Class":"[[Bard]]","Level":"1","aliases":["Valentin"],"permalink":"/campaigns/not-so-glorious/characters/party/valentin-d-etoile/","dgPassFrontmatter":true,"dg-note-properties":{"Player":"Marty","Race":"[[DnD/Races/Starry Child]]","Class":"[[DnD/Classes/Bard]]","Level":"1","aliases":["Valentin"]}}
 ---
 
 [[Campaigns/Not So Glorious/Characters/Party/Valentin d’Étoile\|Valentin d’Étoile]] is male [[DnD/Races/Starry Child\|Starry Child]] [[DnD/Classes/Bard\|Bard]].

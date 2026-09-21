@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/dryad/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/dryad/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Dryad

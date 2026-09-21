@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/orc/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/orc/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Orc\|DnD/Bestiary/Orc]]

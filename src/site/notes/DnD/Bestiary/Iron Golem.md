@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/iron-golem/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/iron-golem/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Iron Golem

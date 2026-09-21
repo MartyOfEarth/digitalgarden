@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/mastiff/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/mastiff/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Mastiff

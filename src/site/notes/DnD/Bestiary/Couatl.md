@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/couatl/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/couatl/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Couatl

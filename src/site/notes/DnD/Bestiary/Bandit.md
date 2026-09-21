@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/bandit/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/bandit/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Bandit

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/noble/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/noble/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Noble

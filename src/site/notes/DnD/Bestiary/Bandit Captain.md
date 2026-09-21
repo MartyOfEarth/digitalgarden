@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/bandit-captain/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/bandit-captain/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Bandit Captain

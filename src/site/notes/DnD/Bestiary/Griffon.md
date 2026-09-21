@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/griffon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/griffon/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Griffon

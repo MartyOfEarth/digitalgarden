@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/hawk/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/hawk/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Hawk

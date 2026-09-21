@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/nightmare/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/nightmare/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Nightmare

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/characters/","tags":["moc","characters"],"dg-note-properties":{"tags":["moc","characters"]}}
+{"tags":["moc","characters"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/characters/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","characters"]}}
 ---
 
 

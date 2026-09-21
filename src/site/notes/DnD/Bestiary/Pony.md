@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/pony/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/pony/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Pony

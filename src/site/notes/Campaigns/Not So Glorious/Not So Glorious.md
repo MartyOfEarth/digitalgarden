@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/not-so-glorious/","tags":["campaign","moc"],"dg-note-properties":{"tags":["campaign","moc"]}}
+{"tags":["campaign","moc"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/not-so-glorious/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["campaign","moc"]}}
 ---
 
 # Not So Glorious

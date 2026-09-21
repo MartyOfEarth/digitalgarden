@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/commoner/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/commoner/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Commoner

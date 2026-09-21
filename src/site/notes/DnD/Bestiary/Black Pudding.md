@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/black-pudding/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/black-pudding/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Black Pudding

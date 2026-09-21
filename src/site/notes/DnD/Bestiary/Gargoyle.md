@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/gargoyle/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/gargoyle/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Gargoyle

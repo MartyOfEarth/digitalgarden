@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/bat/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/bat/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Bat

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/ochre-jelly/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/ochre-jelly/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Ochre Jelly

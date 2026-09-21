@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/carrion-crawler/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/carrion-crawler/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Carrion Crawler

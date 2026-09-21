@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/assassin/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/assassin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Assassin

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/landscapes/landscapes/","tags":["moc","landscapes"],"dg-note-properties":{"tags":["moc","landscapes"]}}
+{"tags":["moc","landscapes"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/landscapes/landscapes/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","landscapes"]}}
 ---
 
 

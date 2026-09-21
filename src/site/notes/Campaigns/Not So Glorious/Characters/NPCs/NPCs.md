@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/np-cs/np-cs/","tags":["moc","npcs"],"dg-note-properties":{"tags":["moc","npcs"]}}
+{"tags":["moc","npcs"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/np-cs/np-cs/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","npcs"]}}
 ---
 
 

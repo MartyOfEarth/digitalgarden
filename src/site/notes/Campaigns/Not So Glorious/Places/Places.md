@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/places/","tags":["moc","atlas","world"],"dg-note-properties":{"tags":["moc","atlas","world"]}}
+{"tags":["moc","atlas","world"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/places/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","atlas","world"]}}
 ---
 
 

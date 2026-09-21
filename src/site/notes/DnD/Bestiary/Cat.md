@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/cat/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/cat/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Cat

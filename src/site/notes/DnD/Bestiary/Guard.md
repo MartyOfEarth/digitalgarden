@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/guard/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/guard/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Guard

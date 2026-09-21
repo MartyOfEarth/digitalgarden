@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/hippogriff/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/hippogriff/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Hippogriff

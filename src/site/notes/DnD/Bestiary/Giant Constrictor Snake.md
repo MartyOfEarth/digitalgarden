@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-constrictor-snake/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-constrictor-snake/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant Constrictor Snake

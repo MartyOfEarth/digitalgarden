@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/goblin/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/goblin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Goblin\|DnD/Bestiary/Goblin]]

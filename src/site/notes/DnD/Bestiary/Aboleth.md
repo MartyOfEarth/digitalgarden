@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/aboleth/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/aboleth/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Aboleth

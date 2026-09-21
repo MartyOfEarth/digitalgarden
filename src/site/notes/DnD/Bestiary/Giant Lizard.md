@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-lizard/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-lizard/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant Lizard

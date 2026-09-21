@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-badger/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/giant-badger/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Giant Badger

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/ghoul/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/ghoul/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Ghoul

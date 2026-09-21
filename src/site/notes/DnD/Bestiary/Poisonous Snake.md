@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/poisonous-snake/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/poisonous-snake/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Poisonous Snake

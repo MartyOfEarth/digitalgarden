@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/gelatinous-cube/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/gelatinous-cube/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Gelatinous Cube

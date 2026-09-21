@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/fire-elemental/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/fire-elemental/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Fire Elemental

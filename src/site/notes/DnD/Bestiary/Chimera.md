@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/chimera/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/chimera/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Chimera

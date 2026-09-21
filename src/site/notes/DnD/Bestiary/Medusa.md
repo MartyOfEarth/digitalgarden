@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/medusa/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/medusa/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Medusa

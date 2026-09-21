@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/gnoll/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/gnoll/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # [[DnD/Bestiary/Gnoll\|DnD/Bestiary/Gnoll]]

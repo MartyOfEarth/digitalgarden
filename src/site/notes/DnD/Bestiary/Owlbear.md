@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/owlbear/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/owlbear/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Owlbear

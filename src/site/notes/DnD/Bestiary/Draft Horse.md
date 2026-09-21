@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/draft-horse/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/draft-horse/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Draft Horse

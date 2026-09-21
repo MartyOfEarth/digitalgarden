@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/hill-giant/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/hill-giant/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Hill Giant

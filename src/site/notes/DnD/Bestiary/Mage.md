@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/mage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/mage/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Mage

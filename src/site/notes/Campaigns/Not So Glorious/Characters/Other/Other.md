@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/other/other/","tags":["moc","beasts","companions"],"dg-note-properties":{"tags":["moc","beasts","companions"]}}
+{"tags":["moc","beasts","companions"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/other/other/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","beasts","companions"]}}
 ---
 
 

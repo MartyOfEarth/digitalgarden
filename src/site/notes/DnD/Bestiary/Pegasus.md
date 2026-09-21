@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/pegasus/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/pegasus/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Pegasus

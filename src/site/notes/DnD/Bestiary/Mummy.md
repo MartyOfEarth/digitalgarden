@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/mummy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/mummy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Mummy

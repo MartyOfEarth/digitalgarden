@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/owl/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/owl/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Owl

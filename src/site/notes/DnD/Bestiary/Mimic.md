@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/mimic/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/mimic/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Mimic

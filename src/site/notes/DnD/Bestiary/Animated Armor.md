@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/bestiary/animated-armor/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dn-d/bestiary/animated-armor/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Animated Armor

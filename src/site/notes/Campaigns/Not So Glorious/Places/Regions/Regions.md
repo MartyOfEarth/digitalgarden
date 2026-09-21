@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/regions/regions/","tags":["moc","regions"],"dg-note-properties":{"tags":["moc","regions"]}}
+{"tags":["moc","regions"],"dg-publish":true,"permalink":"/campaigns/not-so-glorious/places/regions/regions/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["moc","regions"]}}
 ---
 
 
