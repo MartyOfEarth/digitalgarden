@@ -3,3 +3,5 @@
 ---
 
 Older [[DnD/Races/Kenku\|Kenku]] male, a ship master working on a brig. He does not speak [[DnD/Languages/Common\|Common]], instead he speaks [[DnD/Languages/Auran\|Auran]]. He takes the [[Campaigns/Not So Glorious/Characters/Party/Party\|Party]] from the [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich/Docks\|Docks]] to [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]].
+
+He's the MVP
