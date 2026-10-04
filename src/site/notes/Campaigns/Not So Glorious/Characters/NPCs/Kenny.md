@@ -5,4 +5,4 @@
 **Kenny** is an elderly male [[DnD/Races/Kenku\|Kenku]] ship master operating out of [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Yelkwich\|Yelkwich]].
 
 ## Overview
-Kenny serves as the captain of a brig. He does not speak [[DnD/Languages/Common\|Common]], communicating instead exclusively in [[DnD/Languages/Auran\|Auran]]. During his service, he provided passage for the [[Campaigns/Not So Glorious/Characters/Party/Party\|Party]], transporting them from the local [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich/Docks\|Docks]] to [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]].
+Kenny serves as the captain of a brig. He does not speak [[DnD/Languages/Common\|Common]], communicating instead exclusively in [[DnD/Languages/Auran\|Auran]]. During his service, he provided passage for the [[Campaigns/Not So Glorious/Characters/Party/Party\|Party]], transporting them from the local [[Campaigns/Not So Glorious/Places/Settlements/Yelkwich/Outer Yelkwich/Docks\|Docks]] to [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]]. He is writing a book or a journal of some kind.
