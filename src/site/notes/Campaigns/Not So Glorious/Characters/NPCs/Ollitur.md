@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/campaigns/not-so-glorious/characters/np-cs/ollitur/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
-Ollitur is a knight in [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]].
+Ollitur is a knight in [[Campaigns/Not So Glorious/Places/Settlements/Westwend\|Westwend]]. The leader of the knights. He is strong, can take a lot of hits.
