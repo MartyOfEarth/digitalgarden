@@ -13,7 +13,7 @@
 ### Grand Archives
 
 > [!summary] Vault at a Glance
-> **43** Campaign Records · **171** System Entries cataloged across the entire vault.
+> **44** Campaign Records · **171** System Entries cataloged across the entire vault.
 
 ---
 
